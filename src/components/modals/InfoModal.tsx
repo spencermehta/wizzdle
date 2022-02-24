@@ -24,6 +24,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
         />
         <Cell value="U" />
         <Cell value="D" />
+        <h1 className="text-xl dark:text-white">to</h1>
         <Cell value="L" />
         <Cell value="T" />
         <Cell value="N" />
@@ -41,6 +42,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
           value="D"
           status="present"
         />
+        <h1 className="text-xl dark:text-white">to</h1>
         <Cell value="L" />
         <Cell value="T" />
         <Cell value="N" />
@@ -53,6 +55,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
         <Cell value="B" />
         <Cell value="U" />
         <Cell value="D" />
+        <h1 className="text-xl dark:text-white">to</h1>
         <Cell isRevealing={true} isCompleted={true} value="L" status="absent" />
         <Cell value="T" />
         <Cell value="N" />

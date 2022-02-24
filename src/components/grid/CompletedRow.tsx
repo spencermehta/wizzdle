@@ -13,7 +13,18 @@ export const CompletedRow = ({ guess, isRevealing }: Props) => {
 
   return (
     <div className="flex justify-center mb-1">
-      {splitGuess.map((letter, i) => (
+      {splitGuess.slice(0, 3).map((letter, i) => (
+        <Cell
+          key={i}
+          value={letter}
+          status={statuses[i]}
+          position={i}
+          isRevealing={isRevealing}
+          isCompleted
+        />
+      ))}
+      <h1 className="text-xl dark:text-white">to</h1>
+      {splitGuess.slice(3, 6).map((letter, i) => (
         <Cell
           key={i}
           value={letter}

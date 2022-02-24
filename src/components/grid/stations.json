@@ -1,0 +1,6263 @@
+[
+    {
+        "stationCode": "AAN",
+        "inActive": false,
+        "fullName": "Al Ain Airport",
+        "shortName": "Al Ain Airport",
+        "countryCode": "AE",
+        "countryName": "United Arab Emirates",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "241518N",
+                "longitude": "0553708E"
+            },
+            "zoneCode": "22",
+            "subZoneCode": "220",
+            "countryCode": "AE",
+            "cityCode": "AAN",
+            "timeZoneCode": "AE",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "ABZ",
+        "inActive": false,
+        "fullName": "Aberdeen",
+        "shortName": "Aberdeen",
+        "countryCode": "GB",
+        "countryName": "United Kingdom of Great Britain & N. Ireland",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "571209N",
+                "longitude": "0021153W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "GB",
+            "provinceStateCode": "SC",
+            "cityCode": "ABZ",
+            "timeZoneCode": "GB",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "ACE",
+        "inActive": false,
+        "fullName": "Lanzarote (Canary Islands)",
+        "shortName": "Lanzarote (Canary Islands)",
+        "countryCode": "ES",
+        "countryName": "Spain, Spanish State",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "285615N",
+                "longitude": "0133613W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "211",
+            "countryCode": "ES",
+            "provinceStateCode": "CI",
+            "cityCode": "ACE",
+            "timeZoneCode": "ES2",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "AES",
+        "inActive": false,
+        "fullName": "Alesund",
+        "shortName": "Alesund",
+        "countryCode": "NO",
+        "countryName": "Norway, Kingdom of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "623337N",
+                "longitude": "0060637E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "212",
+            "countryCode": "NO",
+            "cityCode": "AES",
+            "timeZoneCode": "NO",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "AFL",
+        "inActive": false,
+        "fullName": "Alta Floresta Airport",
+        "shortName": "Alta Floresta Airport",
+        "countryCode": "BR",
+        "countryName": "Brazil, Federative Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "095158S",
+                "longitude": "0560622W"
+            },
+            "zoneCode": "17",
+            "subZoneCode": "171",
+            "countryCode": "BR",
+            "provinceStateCode": "MT",
+            "cityCode": "AFL",
+            "timeZoneCode": "BR2",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "AGA",
+        "inActive": false,
+        "fullName": "Agadir",
+        "shortName": "Agadir",
+        "countryCode": "MA",
+        "countryName": "Morocco, Kingdom of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "301952N",
+                "longitude": "0092434W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "MA",
+            "cityCode": "AGA",
+            "timeZoneCode": "DZ",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "AGP",
+        "inActive": false,
+        "fullName": "Malaga",
+        "shortName": "Malaga",
+        "countryCode": "ES",
+        "countryName": "Spain, Spanish State",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "364018N",
+                "longitude": "0042953W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "211",
+            "countryCode": "ES",
+            "provinceStateCode": "SP",
+            "cityCode": "AGP",
+            "timeZoneCode": "ES1",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "AHO",
+        "inActive": false,
+        "fullName": "Alghero (Sardinia)",
+        "shortName": "Alghero",
+        "countryCode": "IT",
+        "countryName": "Italy, Italian Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "403752N",
+                "longitude": "0081719E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "IT",
+            "cityCode": "AHO",
+            "timeZoneCode": "IT",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "ALA",
+        "inActive": false,
+        "fullName": "Almaty",
+        "shortName": "Almaty",
+        "countryCode": "KZ",
+        "countryName": "Kazakhstan, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "432120N",
+                "longitude": "0770238E"
+            },
+            "zoneCode": "32",
+            "subZoneCode": "320",
+            "countryCode": "KZ",
+            "cityCode": "ALA",
+            "timeZoneCode": "KZ2",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "ALC",
+        "inActive": false,
+        "fullName": "Alicante",
+        "shortName": "Alicante",
+        "countryCode": "ES",
+        "countryName": "Spain, Spanish State",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "381700N",
+                "longitude": "0003400W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "211",
+            "countryCode": "ES",
+            "provinceStateCode": "SP",
+            "cityCode": "ALC",
+            "timeZoneCode": "ES1",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "AMM",
+        "inActive": false,
+        "fullName": "Amman",
+        "shortName": "Amman",
+        "countryCode": "JO",
+        "countryName": "Jordan, Hashemite Kingdom of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "314321N",
+                "longitude": "0355936E"
+            },
+            "zoneCode": "22",
+            "subZoneCode": "220",
+            "countryCode": "JO",
+            "cityCode": "AMM",
+            "timeZoneCode": "JO",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "AOI",
+        "inActive": false,
+        "fullName": "Ancona",
+        "shortName": "Ancona",
+        "countryCode": "IT",
+        "countryName": "Italy, Italian Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "433700N",
+                "longitude": "0132137E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "IT",
+            "cityCode": "AOI",
+            "timeZoneCode": "IT",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "AQJ",
+        "inActive": false,
+        "fullName": "Aqaba",
+        "shortName": "Aqaba",
+        "countryCode": "JO",
+        "countryName": "Jordan, Hashemite Kingdom of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "293700N",
+                "longitude": "0350100E"
+            },
+            "zoneCode": "22",
+            "subZoneCode": "220",
+            "countryCode": "JO",
+            "cityCode": "AQJ",
+            "timeZoneCode": "JO",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "ARN",
+        "inActive": false,
+        "fullName": "Arlanda Airport",
+        "shortName": "Arlanda Airport",
+        "countryCode": "SE",
+        "countryName": "Sweden, Kingdom of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "593943N",
+                "longitude": "0175602E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "212",
+            "countryCode": "SE",
+            "cityCode": "STO",
+            "timeZoneCode": "SE",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "ARW",
+        "inActive": false,
+        "fullName": "Arad",
+        "shortName": "Arad",
+        "countryCode": "RO",
+        "countryName": "Romania, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "461100N",
+                "longitude": "0211600E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "RO",
+            "cityCode": "ARW",
+            "timeZoneCode": "RO",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "ATH",
+        "inActive": false,
+        "fullName": "Athens",
+        "shortName": "Athens",
+        "countryCode": "GR",
+        "countryName": "Greece, Hellenic Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "375611N",
+                "longitude": "0235640E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "GR",
+            "cityCode": "ATH",
+            "timeZoneCode": "GR",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "ATZ",
+        "inActive": false,
+        "fullName": "Assiut",
+        "shortName": "Assiut",
+        "countryCode": "EG",
+        "countryName": "Egypt, Arab Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "270247N",
+                "longitude": "0310043E"
+            },
+            "zoneCode": "22",
+            "subZoneCode": "220",
+            "countryCode": "EG",
+            "cityCode": "ATZ",
+            "timeZoneCode": "EG",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "AUH",
+        "inActive": false,
+        "fullName": "Abu Dhabi",
+        "shortName": "Abu Dhabi",
+        "countryCode": "AE",
+        "countryName": "United Arab Emirates",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "242630N",
+                "longitude": "0543900E"
+            },
+            "zoneCode": "22",
+            "subZoneCode": "220",
+            "countryCode": "AE",
+            "cityCode": "AUH",
+            "timeZoneCode": "AE",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "AYT",
+        "inActive": false,
+        "fullName": "Antalya",
+        "shortName": "Antalya",
+        "countryCode": "TR",
+        "countryName": "Turkey, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "365420N",
+                "longitude": "0304726E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "TR",
+            "cityCode": "AYT",
+            "timeZoneCode": "TR",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "BAH",
+        "inActive": false,
+        "fullName": "Bahrain",
+        "shortName": "Bahrain",
+        "countryCode": "BH",
+        "countryName": "Bahrain, Kingdom of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "261615N",
+                "longitude": "0503801E"
+            },
+            "zoneCode": "22",
+            "subZoneCode": "220",
+            "countryCode": "BH",
+            "cityCode": "BAH",
+            "timeZoneCode": "BH",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "BCH",
+        "inActive": false,
+        "fullName": "English Madeira Airport",
+        "shortName": "English Madeira Airport",
+        "countryCode": "ID",
+        "countryName": "Indonesia, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "082930S",
+                "longitude": "1262359E"
+            },
+            "zoneCode": "32",
+            "subZoneCode": "320",
+            "countryCode": "ID",
+            "cityCode": "BCH",
+            "timeZoneCode": "ID3",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "BCM",
+        "inActive": false,
+        "fullName": "Bacau",
+        "shortName": "Bacau",
+        "countryCode": "RO",
+        "countryName": "Romania, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "463119N",
+                "longitude": "0265437E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "RO",
+            "cityCode": "BCM",
+            "timeZoneCode": "RO",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "BCN",
+        "inActive": false,
+        "fullName": "Barcelona El Prat",
+        "shortName": "Barcelona",
+        "countryCode": "ES",
+        "countryName": "Spain, Spanish State",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "411749N",
+                "longitude": "0020442E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "211",
+            "countryCode": "ES",
+            "provinceStateCode": "SP",
+            "cityCode": "BCN",
+            "timeZoneCode": "ES1",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "BDS",
+        "inActive": false,
+        "fullName": "Brindisi",
+        "shortName": "Brindisi",
+        "countryCode": "IT",
+        "countryName": "Italy, Italian Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "403938N",
+                "longitude": "0175653E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "IT",
+            "cityCode": "BDS",
+            "timeZoneCode": "IT",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "BDU",
+        "inActive": false,
+        "fullName": "Bardufoss",
+        "shortName": "Bardufoss",
+        "countryCode": "NO",
+        "countryName": "Norway, Kingdom of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "690322N",
+                "longitude": "0183224E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "212",
+            "countryCode": "NO",
+            "cityCode": "BDU",
+            "timeZoneCode": "NO",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "BEG",
+        "inActive": false,
+        "fullName": "Belgrade",
+        "shortName": "Belgrade",
+        "countryCode": "RS",
+        "countryName": "Serbia",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "444909N",
+                "longitude": "0201844E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "RS",
+            "cityCode": "BEG",
+            "timeZoneCode": "RS",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "BER",
+        "inActive": false,
+        "fullName": "Berlin Brandenburg",
+        "shortName": "Berlin Brandenburg",
+        "countryCode": "DE",
+        "countryName": "Germany",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "522201N",
+                "longitude": "0133001E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "DE",
+            "cityCode": "BER",
+            "timeZoneCode": "DE",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "BFS",
+        "inActive": false,
+        "fullName": "Belfast",
+        "shortName": "Belfast",
+        "countryCode": "GB",
+        "countryName": "United Kingdom of Great Britain & N. Ireland",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "543912N",
+                "longitude": "0061329W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "GB",
+            "provinceStateCode": "NI",
+            "cityCode": "BFS",
+            "timeZoneCode": "GB",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "BGO",
+        "inActive": false,
+        "fullName": "Bergen",
+        "shortName": "Bergen",
+        "countryCode": "NO",
+        "countryName": "Norway, Kingdom of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "601736N",
+                "longitude": "0051305E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "212",
+            "countryCode": "NO",
+            "cityCode": "BGO",
+            "timeZoneCode": "NO",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "BGY",
+        "inActive": false,
+        "fullName": "Milan Bergamo",
+        "shortName": "Milan Bergamo",
+        "countryCode": "IT",
+        "countryName": "Italy, Italian Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "454008N",
+                "longitude": "0094201E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "IT",
+            "cityCode": "MIL",
+            "timeZoneCode": "IT",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "BHK",
+        "inActive": false,
+        "fullName": "Bukhara Airport",
+        "shortName": "Bukhara Airport",
+        "countryCode": "UZ",
+        "countryName": "Uzbekistan",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "394600N",
+                "longitude": "0642900E"
+            },
+            "zoneCode": "32",
+            "subZoneCode": "320",
+            "countryCode": "UZ",
+            "cityCode": "BHK",
+            "timeZoneCode": "UZ",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "BHX",
+        "inActive": false,
+        "fullName": "Birmingham",
+        "shortName": "Birmingham",
+        "countryCode": "GB",
+        "countryName": "United Kingdom of Great Britain & N. Ireland",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "522714N",
+                "longitude": "0014453W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "GB",
+            "provinceStateCode": "EN",
+            "cityCode": "BHX",
+            "timeZoneCode": "GB",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "BJV",
+        "inActive": false,
+        "fullName": "Bodrum",
+        "shortName": "Bodrum",
+        "countryCode": "TR",
+        "countryName": "Turkey, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "371500N",
+                "longitude": "0274100E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "TR",
+            "cityCode": "BXN",
+            "timeZoneCode": "TR",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "BLL",
+        "inActive": false,
+        "fullName": "Billund",
+        "shortName": "Billund",
+        "countryCode": "DK",
+        "countryName": "Denmark, Kingdom of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "554418N",
+                "longitude": "0090900E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "212",
+            "countryCode": "DK",
+            "cityCode": "BLL",
+            "timeZoneCode": "DK",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "BLQ",
+        "inActive": false,
+        "fullName": "Bologna",
+        "shortName": "Bologna",
+        "countryCode": "IT",
+        "countryName": "Italy, Italian Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "443151N",
+                "longitude": "0111749E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "IT",
+            "cityCode": "BLQ",
+            "timeZoneCode": "IT",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "BNX",
+        "inActive": false,
+        "fullName": "Banja Luka",
+        "shortName": "Banja Luka",
+        "countryCode": "BA",
+        "countryName": "Bosnia and Herzegovina",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "445629N",
+                "longitude": "0171751E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "BA",
+            "cityCode": "BNX",
+            "timeZoneCode": "BA",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "BOD",
+        "inActive": false,
+        "fullName": "Bordeaux",
+        "shortName": "Bordeaux",
+        "countryCode": "FR",
+        "countryName": "France, French Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "444946N",
+                "longitude": "0004252W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "FR",
+            "cityCode": "BOD",
+            "timeZoneCode": "FR",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "BOJ",
+        "inActive": false,
+        "fullName": "Bourgas (Black Sea)",
+        "shortName": "Bourgas",
+        "countryCode": "BG",
+        "countryName": "Bulgaria, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "423410N",
+                "longitude": "0273055E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "BG",
+            "cityCode": "BOJ",
+            "timeZoneCode": "BG",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "BOO",
+        "inActive": false,
+        "fullName": "Bodo Airport",
+        "shortName": "Bodo",
+        "countryCode": "NO",
+        "countryName": "Norway, Kingdom of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "671609N",
+                "longitude": "0142220E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "212",
+            "countryCode": "NO",
+            "cityCode": "BOO",
+            "timeZoneCode": "NO",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "BQT",
+        "inActive": false,
+        "fullName": "Brest Airport",
+        "shortName": "Brest Airport",
+        "countryCode": "BY",
+        "countryName": "Belarus",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "520630N",
+                "longitude": "0235353E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "BY",
+            "cityCode": "BQT",
+            "timeZoneCode": "BY",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "BRE",
+        "inActive": false,
+        "fullName": "Bremen",
+        "shortName": "Bremen",
+        "countryCode": "DE",
+        "countryName": "Germany",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "530248N",
+                "longitude": "0084724E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "DE",
+            "cityCode": "BRE",
+            "timeZoneCode": "DE",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "BRI",
+        "inActive": false,
+        "fullName": "Bari",
+        "shortName": "Bari",
+        "countryCode": "IT",
+        "countryName": "Italy, Italian Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "410817N",
+                "longitude": "0164554E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "IT",
+            "cityCode": "BRI",
+            "timeZoneCode": "IT",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "BRN",
+        "inActive": false,
+        "fullName": "Belp Airport",
+        "shortName": "Belp Airport",
+        "countryCode": "CH",
+        "countryName": "Switzerland, Swiss Confederation",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "465455N",
+                "longitude": "0072957E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "CH",
+            "cityCode": "BRN",
+            "timeZoneCode": "CH",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "BRQ",
+        "inActive": false,
+        "fullName": "Brno",
+        "shortName": "Turany Airport",
+        "countryCode": "CZ",
+        "countryName": "Czech Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "490905N",
+                "longitude": "0164140E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "CZ",
+            "cityCode": "BRQ",
+            "timeZoneCode": "CZ",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "BRS",
+        "inActive": false,
+        "fullName": "Bristol",
+        "shortName": "Bristol",
+        "countryCode": "GB",
+        "countryName": "United Kingdom of Great Britain & N. Ireland",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "512254N",
+                "longitude": "0024232W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "GB",
+            "provinceStateCode": "EN",
+            "cityCode": "BRS",
+            "timeZoneCode": "GB",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "BRU",
+        "inActive": false,
+        "fullName": "Brussels",
+        "shortName": "Brussels",
+        "countryCode": "BE",
+        "countryName": "Belgium, Kingdom of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "505405N",
+                "longitude": "0042904E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "BE",
+            "cityCode": "BRU",
+            "timeZoneCode": "BE",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "BSL",
+        "inActive": false,
+        "fullName": "Basel-Mulhouse-Freiburg",
+        "shortName": "Basel",
+        "countryCode": "CH",
+        "countryName": "Switzerland, Swiss Confederation",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "473558N",
+                "longitude": "0073153E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "CH",
+            "cityCode": "EAP",
+            "timeZoneCode": "CH",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "BTS",
+        "inActive": false,
+        "fullName": "Bratislava - Ivanka Airport",
+        "shortName": "Bratislava",
+        "countryCode": "SK",
+        "countryName": "Slovakia (Slovak Republic)",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "481013N",
+                "longitude": "0171246E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "SK",
+            "cityCode": "BTS",
+            "timeZoneCode": "SK",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "BUD",
+        "inActive": false,
+        "fullName": "Budapest",
+        "shortName": "Budapest",
+        "countryCode": "HU",
+        "countryName": "Hungary, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "472600N",
+                "longitude": "0191400E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "HU",
+            "cityCode": "BUD",
+            "timeZoneCode": "HU",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "BVA",
+        "inActive": false,
+        "fullName": "Paris Beauvais",
+        "shortName": "Paris Beauvais",
+        "countryCode": "FR",
+        "countryName": "France, French Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "492721N",
+                "longitude": "0020645E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "FR",
+            "cityCode": "PAR",
+            "timeZoneCode": "FR",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "BZG",
+        "inActive": false,
+        "fullName": "Bydgoszcz",
+        "shortName": "Bydgoszcz",
+        "countryCode": "PL",
+        "countryName": "Poland, Polish Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "530548N",
+                "longitude": "0175843E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "PL",
+            "cityCode": "BZG",
+            "timeZoneCode": "PL",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "CAG",
+        "inActive": false,
+        "fullName": "Cagliari (Sardinia)",
+        "shortName": "Cagliari (Sardinia)",
+        "countryCode": "IT",
+        "countryName": "Italy, Italian Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "391450N",
+                "longitude": "0090322E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "IT",
+            "cityCode": "CAG",
+            "timeZoneCode": "IT",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "CDG",
+        "inActive": false,
+        "fullName": "Paris Charles De Gaulle",
+        "shortName": "Paris Charles De Gaulle",
+        "countryCode": "FR",
+        "countryName": "France, French Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "490035N",
+                "longitude": "0023255E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "FR",
+            "cityCode": "PAR",
+            "timeZoneCode": "FR",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "CDT",
+        "inActive": false,
+        "fullName": "Castellón",
+        "shortName": "Castellon",
+        "countryCode": "ES",
+        "countryName": "Spain, Spanish State",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "401251N",
+                "longitude": "0000425E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "211",
+            "countryCode": "ES",
+            "provinceStateCode": "SP",
+            "cityCode": "CDT",
+            "timeZoneCode": "ES1",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "CFU",
+        "inActive": false,
+        "fullName": "Corfu",
+        "shortName": "Corfu",
+        "countryCode": "GR",
+        "countryName": "Greece, Hellenic Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "393607N",
+                "longitude": "0195442E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "GR",
+            "cityCode": "CFU",
+            "timeZoneCode": "GR",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "CGN",
+        "inActive": false,
+        "fullName": "Cologne",
+        "shortName": "Cologne",
+        "countryCode": "DE",
+        "countryName": "Germany",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "505157N",
+                "longitude": "0070834E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "DE",
+            "cityCode": "CGN",
+            "timeZoneCode": "DE",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "CHQ",
+        "inActive": false,
+        "fullName": "Chania (Crete)",
+        "shortName": "Chania (Crete)",
+        "countryCode": "GR",
+        "countryName": "Greece, Hellenic Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "353154N",
+                "longitude": "0240859E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "GR",
+            "cityCode": "CHQ",
+            "timeZoneCode": "GR",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "CIA",
+        "inActive": false,
+        "fullName": "Rome Ciampino",
+        "shortName": "Rome Ciampino",
+        "countryCode": "IT",
+        "countryName": "Italy, Italian Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "414758N",
+                "longitude": "0123550E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "IT",
+            "cityCode": "ROM",
+            "timeZoneCode": "IT",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "CLJ",
+        "inActive": false,
+        "fullName": "Cluj-Napoca",
+        "shortName": "Cluj-Napoca",
+        "countryCode": "RO",
+        "countryName": "Romania, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "464700N",
+                "longitude": "0234100E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "RO",
+            "cityCode": "CLJ",
+            "timeZoneCode": "RO",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "CMB",
+        "inActive": false,
+        "fullName": "Bandaranayake International Airport",
+        "shortName": "Bandaranayake International Airp",
+        "countryCode": "LK",
+        "countryName": "Sri Lanka, Democratic Socialist Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "071030N",
+                "longitude": "0795305E"
+            },
+            "zoneCode": "33",
+            "subZoneCode": "330",
+            "countryCode": "LK",
+            "cityCode": "CMB",
+            "timeZoneCode": "LK",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "CMN",
+        "inActive": false,
+        "fullName": "Casablanca",
+        "shortName": "Casablanca",
+        "countryCode": "MA",
+        "countryName": "Morocco, Kingdom of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "332200N",
+                "longitude": "0073512W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "MA",
+            "cityCode": "CAS",
+            "timeZoneCode": "MA",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "CND",
+        "inActive": false,
+        "fullName": "Constanta",
+        "shortName": "Constanta",
+        "countryCode": "RO",
+        "countryName": "Romania, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "442144N",
+                "longitude": "0282918E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "RO",
+            "cityCode": "CND",
+            "timeZoneCode": "RO",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "CPH",
+        "inActive": false,
+        "fullName": "Copenhagen",
+        "shortName": "Copenhagen",
+        "countryCode": "DK",
+        "countryName": "Denmark, Kingdom of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "553705N",
+                "longitude": "0123921E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "212",
+            "countryCode": "DK",
+            "cityCode": "CPH",
+            "timeZoneCode": "DK",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "CRA",
+        "inActive": false,
+        "fullName": "Craiova",
+        "shortName": "Craiova",
+        "countryCode": "RO",
+        "countryName": "Romania, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "441908N",
+                "longitude": "0235311E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "RO",
+            "cityCode": "CRA",
+            "timeZoneCode": "RO",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "CRL",
+        "inActive": false,
+        "fullName": "Brussels Charleroi",
+        "shortName": "Brussels Charleroi",
+        "countryCode": "BE",
+        "countryName": "Belgium, Kingdom of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "502733N",
+                "longitude": "0042714E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "BE",
+            "cityCode": "BRU",
+            "timeZoneCode": "BE",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "CTA",
+        "inActive": false,
+        "fullName": "Catania Fontanarossa (Sicily)",
+        "shortName": "Catania",
+        "countryCode": "IT",
+        "countryName": "Italy, Italian Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "372800N",
+                "longitude": "0150359E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "IT",
+            "cityCode": "CTA",
+            "timeZoneCode": "IT",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "CWL",
+        "inActive": false,
+        "fullName": "Cardiff",
+        "shortName": "Cardiff",
+        "countryCode": "GB",
+        "countryName": "United Kingdom of Great Britain & N. Ireland",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "512351N",
+                "longitude": "0032048W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "GB",
+            "provinceStateCode": "WL",
+            "cityCode": "CWL",
+            "timeZoneCode": "GB",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "DBV",
+        "inActive": false,
+        "fullName": "Dubrovnik",
+        "shortName": "Dubrovnik",
+        "countryCode": "HR",
+        "countryName": "Hrvatska (Croatia)",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "423348N",
+                "longitude": "0181555E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "HR",
+            "cityCode": "DBV",
+            "timeZoneCode": "HR",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "DEB",
+        "inActive": false,
+        "fullName": "Debrecen",
+        "shortName": "Debrecen",
+        "countryCode": "HU",
+        "countryName": "Hungary, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "472920N",
+                "longitude": "0213655E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "HU",
+            "cityCode": "DEB",
+            "timeZoneCode": "HU",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "DLM",
+        "inActive": false,
+        "fullName": "Dalaman",
+        "shortName": "Dalaman",
+        "countryCode": "TR",
+        "countryName": "Turkey, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "364300N",
+                "longitude": "0284700E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "TR",
+            "cityCode": "DLM",
+            "timeZoneCode": "TR",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "DOH",
+        "inActive": false,
+        "fullName": "Doha",
+        "shortName": "Doha",
+        "countryCode": "QA",
+        "countryName": "Qatar, State of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "251628N",
+                "longitude": "0513630E"
+            },
+            "zoneCode": "22",
+            "subZoneCode": "220",
+            "countryCode": "QA",
+            "cityCode": "DOH",
+            "timeZoneCode": "QA",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "DOK",
+        "inActive": false,
+        "fullName": "Donetsk",
+        "shortName": "Donetsk",
+        "countryCode": "UA",
+        "countryName": "Ukraine",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "480500N",
+                "longitude": "0374500E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "UA",
+            "cityCode": "DOK",
+            "timeZoneCode": "UA",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "DSA",
+        "inActive": false,
+        "fullName": "Doncaster Sheffield",
+        "shortName": "Doncaster",
+        "countryCode": "GB",
+        "countryName": "United Kingdom of Great Britain & N. Ireland",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "532831N",
+                "longitude": "0010014W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "GB",
+            "provinceStateCode": "EN",
+            "cityCode": "DSA",
+            "timeZoneCode": "GB",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "DTM",
+        "inActive": false,
+        "fullName": "Dortmund",
+        "shortName": "Dortmund",
+        "countryCode": "DE",
+        "countryName": "Germany",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "513100N",
+                "longitude": "0073600E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "DE",
+            "cityCode": "DTM",
+            "timeZoneCode": "DE",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "DUB",
+        "inActive": false,
+        "fullName": "Dublin Airport",
+        "shortName": "Dublin Airport",
+        "countryCode": "IE",
+        "countryName": "Ireland",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "532517N",
+                "longitude": "0061612W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "IE",
+            "cityCode": "DUB",
+            "timeZoneCode": "IE",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "DWC",
+        "inActive": false,
+        "fullName": "Dubai",
+        "shortName": "Dubai",
+        "countryCode": "AE",
+        "countryName": "United Arab Emirates",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "245306N",
+                "longitude": "0550932E"
+            },
+            "zoneCode": "22",
+            "subZoneCode": "220",
+            "countryCode": "AE",
+            "cityCode": "DXB",
+            "timeZoneCode": "AE",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "DXB",
+        "inActive": false,
+        "fullName": "Dubai International Airport",
+        "shortName": "Dubai International Airport",
+        "countryCode": "AE",
+        "countryName": "United Arab Emirates",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "251500N",
+                "longitude": "0552128E"
+            },
+            "zoneCode": "22",
+            "subZoneCode": "220",
+            "countryCode": "AE",
+            "cityCode": "DXB",
+            "timeZoneCode": "AE",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "EBU",
+        "inActive": false,
+        "fullName": "Saint-Étienne (Bouthéon Airport)",
+        "shortName": "Saint-Étienne (Bouthéon Airport)",
+        "countryCode": "FR",
+        "countryName": "France, French Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "453203N",
+                "longitude": "0041750E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "FR",
+            "cityCode": "EBU",
+            "timeZoneCode": "FR",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "EDI",
+        "inActive": false,
+        "fullName": "Edinburgh",
+        "shortName": "Edinburgh",
+        "countryCode": "GB",
+        "countryName": "United Kingdom of Great Britain & N. Ireland",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "555655N",
+                "longitude": "0032101W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "GB",
+            "provinceStateCode": "SC",
+            "cityCode": "EDI",
+            "timeZoneCode": "GB",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "EFL",
+        "inActive": false,
+        "fullName": "Kefalonia Airport",
+        "shortName": "Kefalonia Airport",
+        "countryCode": "GR",
+        "countryName": "Greece, Hellenic Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "380712N",
+                "longitude": "0203002E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "GR",
+            "cityCode": "EFL",
+            "timeZoneCode": "GR",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "EIN",
+        "inActive": false,
+        "fullName": "Eindhoven",
+        "shortName": "Eindhoven",
+        "countryCode": "NL",
+        "countryName": "Netherlands, Kingdom of the",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "512712N",
+                "longitude": "0052320E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "NL",
+            "cityCode": "EIN",
+            "timeZoneCode": "NL",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "ETM",
+        "inActive": false,
+        "fullName": "Ramon International Airport",
+        "shortName": "Eilat Ramon",
+        "countryCode": "IL",
+        "countryName": "Israel, State of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "29331799N",
+                "longitude": "34571919E"
+            },
+            "zoneCode": "22",
+            "subZoneCode": "220",
+            "countryCode": "IL",
+            "cityCode": "ETH",
+            "timeZoneCode": "IL",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "EVE",
+        "inActive": false,
+        "fullName": "Harstad-Narvik, Evenes",
+        "shortName": "Harstad-Narvik, Evenes",
+        "countryCode": "NO",
+        "countryName": "Norway, Kingdom of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "682948N",
+                "longitude": "0164047E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "212",
+            "countryCode": "NO",
+            "cityCode": "EVE",
+            "timeZoneCode": "NO",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "EVN",
+        "inActive": false,
+        "fullName": "Yerevan",
+        "shortName": "Yerevan",
+        "countryCode": "AM",
+        "countryName": "Armenia",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "400900N",
+                "longitude": "0442400E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "AM",
+            "cityCode": "EVN",
+            "timeZoneCode": "AM",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "FAE",
+        "inActive": false,
+        "fullName": "Faroe Islands",
+        "shortName": "Faroe Islands",
+        "countryCode": "FO",
+        "countryName": "Faeroe Islands",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "620349N",
+                "longitude": "0071638W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "FO",
+            "cityCode": "FAE",
+            "timeZoneCode": "FO",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "FAO",
+        "inActive": false,
+        "fullName": "Faro Airport",
+        "shortName": "Faro",
+        "countryCode": "PT",
+        "countryName": "Portugal, Portuguese Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "370052N",
+                "longitude": "0075815W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "211",
+            "countryCode": "PT",
+            "cityCode": "FAO",
+            "timeZoneCode": "PT1",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "FCO",
+        "inActive": false,
+        "fullName": "Rome Fiumicino",
+        "shortName": "Rome Fiumicino",
+        "countryCode": "IT",
+        "countryName": "Italy, Italian Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "414801N",
+                "longitude": "0121420E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "IT",
+            "cityCode": "ROM",
+            "timeZoneCode": "IT",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "FDH",
+        "inActive": false,
+        "fullName": "Friedrichshafen",
+        "shortName": "Friedrichshafen",
+        "countryCode": "DE",
+        "countryName": "Germany",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "474002N",
+                "longitude": "0093045E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "DE",
+            "cityCode": "FDH",
+            "timeZoneCode": "DE",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "FKB",
+        "inActive": false,
+        "fullName": "Karlsruhe/Baden-Baden",
+        "shortName": "Karlsruhe/Baden-Baden",
+        "countryCode": "DE",
+        "countryName": "Germany",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "484646N",
+                "longitude": "0080450E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "DE",
+            "cityCode": "FKB",
+            "timeZoneCode": "DE",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "FMM",
+        "inActive": false,
+        "fullName": "Memmingen/Munich West",
+        "shortName": "Memmingen",
+        "countryCode": "DE",
+        "countryName": "Germany",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "475933N",
+                "longitude": "0101437E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "DE",
+            "cityCode": "FMM",
+            "timeZoneCode": "DE",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "FMO",
+        "inActive": false,
+        "fullName": "Muenster",
+        "shortName": "Muenster",
+        "countryCode": "DE",
+        "countryName": "Germany",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "520805N",
+                "longitude": "0074105E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "DE",
+            "cityCode": "FMO",
+            "timeZoneCode": "DE",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "FNC",
+        "inActive": false,
+        "fullName": "Madeira Airport",
+        "shortName": "Madeira Airport",
+        "countryCode": "PT",
+        "countryName": "Portugal, Portuguese Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "324139N",
+                "longitude": "0164641W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "211",
+            "countryCode": "PT",
+            "cityCode": "FNC",
+            "timeZoneCode": "PT1",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "FRA",
+        "inActive": false,
+        "fullName": "Frankfurt",
+        "shortName": "Frankfurt",
+        "countryCode": "DE",
+        "countryName": "Germany",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "500220N",
+                "longitude": "0083414E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "DE",
+            "cityCode": "FRA",
+            "timeZoneCode": "DE",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "FRL",
+        "inActive": false,
+        "fullName": "Forlì/Bologna",
+        "shortName": "Forli/Bologna",
+        "countryCode": "IT",
+        "countryName": "Italy, Italian Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "441144N",
+                "longitude": "0120411E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "IT",
+            "cityCode": "FRL",
+            "timeZoneCode": "IT",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "FRU",
+        "inActive": false,
+        "fullName": "Bishkek Airport",
+        "shortName": "Bishkek Airport",
+        "countryCode": "KG",
+        "countryName": "Kyrgyz Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "430330N",
+                "longitude": "0742823E"
+            },
+            "zoneCode": "32",
+            "subZoneCode": "320",
+            "countryCode": "KG",
+            "cityCode": "FRU",
+            "timeZoneCode": "KG",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "FUE",
+        "inActive": false,
+        "fullName": "Fuerteventura (Canary Islands)",
+        "shortName": "Fuerteventura",
+        "countryCode": "ES",
+        "countryName": "Spain, Spanish State",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "282710N",
+                "longitude": "0135150W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "211",
+            "countryCode": "ES",
+            "provinceStateCode": "CI",
+            "cityCode": "FUE",
+            "timeZoneCode": "ES2",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "GDN",
+        "inActive": false,
+        "fullName": "Gdansk",
+        "shortName": "Gdansk",
+        "countryCode": "PL",
+        "countryName": "Poland, Polish Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "542241N",
+                "longitude": "0182803E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "PL",
+            "cityCode": "GDN",
+            "timeZoneCode": "PL",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "GIB",
+        "inActive": false,
+        "fullName": "Gibraltar",
+        "shortName": "Gibraltar",
+        "countryCode": "GI",
+        "countryName": "Gibraltar",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "360900N",
+                "longitude": "0052050W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "211",
+            "countryCode": "GI",
+            "cityCode": "GIB",
+            "timeZoneCode": "GI",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "GLA",
+        "inActive": false,
+        "fullName": "Glasgow",
+        "shortName": "Glasgow",
+        "countryCode": "GB",
+        "countryName": "United Kingdom of Great Britain & N. Ireland",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "555200N",
+                "longitude": "0042600W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "GB",
+            "provinceStateCode": "SC",
+            "cityCode": "GLA",
+            "timeZoneCode": "GB",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "GNB",
+        "inActive": false,
+        "fullName": "Grenoble",
+        "shortName": "Grenoble",
+        "countryCode": "FR",
+        "countryName": "France, French Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "452146N",
+                "longitude": "0051947E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "FR",
+            "cityCode": "LYS",
+            "timeZoneCode": "FR",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "GOA",
+        "inActive": false,
+        "fullName": "Genoa",
+        "shortName": "Genoa",
+        "countryCode": "IT",
+        "countryName": "Italy, Italian Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "442448N",
+                "longitude": "0085015E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "IT",
+            "cityCode": "GOA",
+            "timeZoneCode": "IT",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "GOT",
+        "inActive": false,
+        "fullName": "Gothenburg Landvetter",
+        "shortName": "Gothenburg",
+        "countryCode": "SE",
+        "countryName": "Sweden, Kingdom of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "573946N",
+                "longitude": "0121647E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "212",
+            "countryCode": "SE",
+            "cityCode": "GOT",
+            "timeZoneCode": "SE",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "GRO",
+        "inActive": false,
+        "fullName": "Barcelona Girona",
+        "shortName": "Barcelona Girona",
+        "countryCode": "ES",
+        "countryName": "Spain, Spanish State",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "415403N",
+                "longitude": "0024538E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "211",
+            "countryCode": "ES",
+            "provinceStateCode": "SP",
+            "cityCode": "GRO",
+            "timeZoneCode": "ES1",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "GRQ",
+        "inActive": false,
+        "fullName": "Groningen",
+        "shortName": "Groningen",
+        "countryCode": "NL",
+        "countryName": "Netherlands, Kingdom of the",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "530711N",
+                "longitude": "0063446E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "NL",
+            "cityCode": "GRQ",
+            "timeZoneCode": "NL",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "GSE",
+        "inActive": false,
+        "fullName": "Gothenburg City Airport",
+        "shortName": "Gothenburg City Airport",
+        "countryCode": "SE",
+        "countryName": "Sweden, Kingdom of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "574606N",
+                "longitude": "0115204E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "212",
+            "countryCode": "SE",
+            "cityCode": "GOT",
+            "timeZoneCode": "SE",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "GUW",
+        "inActive": false,
+        "fullName": "Atyrau Airport",
+        "shortName": "Atyrau Airport",
+        "countryCode": "KZ",
+        "countryName": "Kazakhstan, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "470713N",
+                "longitude": "0514932E"
+            },
+            "zoneCode": "32",
+            "subZoneCode": "320",
+            "countryCode": "KZ",
+            "cityCode": "GUW",
+            "timeZoneCode": "KZ1",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "GVA",
+        "inActive": false,
+        "fullName": "Geneva",
+        "shortName": "Geneva",
+        "countryCode": "CH",
+        "countryName": "Switzerland, Swiss Confederation",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "461417N",
+                "longitude": "0060632E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "CH",
+            "cityCode": "GVA",
+            "timeZoneCode": "CH",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "GYD",
+        "inActive": false,
+        "fullName": "Baku",
+        "shortName": "Baku",
+        "countryCode": "AZ",
+        "countryName": "Azerbaijan, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "402754N",
+                "longitude": "0500307E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "AZ",
+            "cityCode": "BAK",
+            "timeZoneCode": "AZ",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "HAJ",
+        "inActive": false,
+        "fullName": "Hanover",
+        "shortName": "Hannover",
+        "countryCode": "DE",
+        "countryName": "Germany",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "522740N",
+                "longitude": "0094106E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "DE",
+            "cityCode": "HAJ",
+            "timeZoneCode": "DE",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "HAM",
+        "inActive": false,
+        "fullName": "Hamburg",
+        "shortName": "Hamburg",
+        "countryCode": "DE",
+        "countryName": "Germany",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "533749N",
+                "longitude": "0095918E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "DE",
+            "cityCode": "HAM",
+            "timeZoneCode": "DE",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "HAU",
+        "inActive": false,
+        "fullName": "Haugesund",
+        "shortName": "Haugesund",
+        "countryCode": "NO",
+        "countryName": "Norway, Kingdom of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "592038N",
+                "longitude": "0051253E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "212",
+            "countryCode": "NO",
+            "cityCode": "HAU",
+            "timeZoneCode": "NO",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "HBE",
+        "inActive": false,
+        "fullName": "Alexandria (Borg El Arab)",
+        "shortName": "Alexandria (Borg El Arab)",
+        "countryCode": "EG",
+        "countryName": "Egypt, Arab Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "305400N",
+                "longitude": "0294100E"
+            },
+            "zoneCode": "22",
+            "subZoneCode": "220",
+            "countryCode": "EG",
+            "cityCode": "ALY",
+            "timeZoneCode": "EG",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "HER",
+        "inActive": false,
+        "fullName": "Heraklion (Crete)",
+        "shortName": "Heraklion",
+        "countryCode": "GR",
+        "countryName": "Greece, Hellenic Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "352023N",
+                "longitude": "0251049E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "GR",
+            "cityCode": "HER",
+            "timeZoneCode": "GR",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "HHN",
+        "inActive": false,
+        "fullName": "Frankfurt Hahn",
+        "shortName": "Frankfurt Hahn",
+        "countryCode": "DE",
+        "countryName": "Germany",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "495700N",
+                "longitude": "0071600E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "DE",
+            "cityCode": "FRA",
+            "timeZoneCode": "DE",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "HMB",
+        "inActive": false,
+        "fullName": "Sohag",
+        "shortName": "Sohag",
+        "countryCode": "EG",
+        "countryName": "Egypt, Arab Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "262028N",
+                "longitude": "0314435E"
+            },
+            "zoneCode": "22",
+            "subZoneCode": "220",
+            "countryCode": "EG",
+            "cityCode": "HMB",
+            "timeZoneCode": "EG",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "HRG",
+        "inActive": false,
+        "fullName": "Hurghada",
+        "shortName": "Hurghada",
+        "countryCode": "EG",
+        "countryName": "Egypt, Arab Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "271043N",
+                "longitude": "0334803E"
+            },
+            "zoneCode": "22",
+            "subZoneCode": "220",
+            "countryCode": "EG",
+            "cityCode": "HRG",
+            "timeZoneCode": "EG",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "HRK",
+        "inActive": false,
+        "fullName": "Kharkiv",
+        "shortName": "Kharkiv",
+        "countryCode": "UA",
+        "countryName": "Ukraine",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "495600N",
+                "longitude": "0361700E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "UA",
+            "cityCode": "HRK",
+            "timeZoneCode": "UA",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "IAS",
+        "inActive": false,
+        "fullName": "Iasi",
+        "shortName": "Iasi",
+        "countryCode": "RO",
+        "countryName": "Romania, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "471100N",
+                "longitude": "0273600E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "RO",
+            "cityCode": "IAS",
+            "timeZoneCode": "RO",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "IBZ",
+        "inActive": false,
+        "fullName": "Ibiza Airport",
+        "shortName": "Ibiza",
+        "countryCode": "ES",
+        "countryName": "Spain, Spanish State",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "385225N",
+                "longitude": "0012222E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "211",
+            "countryCode": "ES",
+            "provinceStateCode": "SP",
+            "cityCode": "IBZ",
+            "timeZoneCode": "ES1",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "IEV",
+        "inActive": false,
+        "fullName": "Kyiv Zhulyany",
+        "shortName": "Kyiv Zhulyany",
+        "countryCode": "UA",
+        "countryName": "Ukraine",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "502443N",
+                "longitude": "0302635E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "UA",
+            "cityCode": "IEV",
+            "timeZoneCode": "UA",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "INI",
+        "inActive": false,
+        "fullName": "Nis",
+        "shortName": "Nis",
+        "countryCode": "RS",
+        "countryName": "Serbia",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "432002N",
+                "longitude": "0215106E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "RS",
+            "cityCode": "INI",
+            "timeZoneCode": "RS",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "IST",
+        "inActive": false,
+        "fullName": "Ataturk Airport",
+        "shortName": "Ataturk Airport",
+        "countryCode": "TR",
+        "countryName": "Turkey, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "405836N",
+                "longitude": "0284855E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "TR",
+            "cityCode": "IST",
+            "timeZoneCode": "TR",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "JED",
+        "inActive": false,
+        "fullName": "King Abdulaziz International Airport",
+        "shortName": "King Abdulaziz International Air",
+        "countryCode": "SA",
+        "countryName": "Saudi Arabia, Kingdom of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "214052N",
+                "longitude": "0390920E"
+            },
+            "zoneCode": "22",
+            "subZoneCode": "220",
+            "countryCode": "SA",
+            "cityCode": "JED",
+            "timeZoneCode": "SA",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "JER",
+        "inActive": false,
+        "fullName": "Jersey",
+        "shortName": "Jersey",
+        "countryCode": "GB",
+        "countryName": "United Kingdom of Great Britain & N. Ireland",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "491240N",
+                "longitude": "0021300W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "GB",
+            "provinceStateCode": "CI",
+            "cityCode": "JER",
+            "timeZoneCode": "GB",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "JFK",
+        "inActive": false,
+        "fullName": "John F. Kennedy International Airport",
+        "shortName": "John F. Kennedy International Ai",
+        "countryCode": "US",
+        "countryName": "United States of America",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "403819N",
+                "longitude": "0734637W"
+            },
+            "zoneCode": "00",
+            "subZoneCode": "001",
+            "countryCode": "US",
+            "provinceStateCode": "NY",
+            "cityCode": "NYC",
+            "timeZoneCode": "US1",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 1
+        }
+    },
+    {
+        "stationCode": "JMK",
+        "inActive": false,
+        "fullName": "Mykonos",
+        "shortName": "Mykonos",
+        "countryCode": "GR",
+        "countryName": "Greece, Hellenic Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "372606N",
+                "longitude": "0252053E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "GR",
+            "cityCode": "JMK",
+            "timeZoneCode": "GR",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "JTR",
+        "inActive": false,
+        "fullName": "Santorini",
+        "shortName": "Santorini",
+        "countryCode": "GR",
+        "countryName": "Greece, Hellenic Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "362357N",
+                "longitude": "0252846E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "GR",
+            "cityCode": "JTR",
+            "timeZoneCode": "GR",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "KBP",
+        "inActive": false,
+        "fullName": "Kyiv - Borispol",
+        "shortName": "Kyiv Borispil",
+        "countryCode": "UA",
+        "countryName": "Ukraine",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "502100N",
+                "longitude": "0305500E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "UA",
+            "cityCode": "IEV",
+            "timeZoneCode": "UA",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "KEF",
+        "inActive": false,
+        "fullName": "Reykjavik",
+        "shortName": "Reykjavik",
+        "countryCode": "IS",
+        "countryName": "Iceland, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "635906N",
+                "longitude": "0223620W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "IS",
+            "cityCode": "REK",
+            "timeZoneCode": "IS",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "KET",
+        "inActive": false,
+        "fullName": "Keng Tung Airport",
+        "shortName": "Keng Tung Airport",
+        "countryCode": "MM",
+        "countryName": "Myanmar",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "211800N",
+                "longitude": "0993700E"
+            },
+            "zoneCode": "32",
+            "subZoneCode": "320",
+            "countryCode": "MM",
+            "cityCode": "KET",
+            "timeZoneCode": "MM",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "KGS",
+        "inActive": false,
+        "fullName": "Kos",
+        "shortName": "Kos",
+        "countryCode": "GR",
+        "countryName": "Greece, Hellenic Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "364736N",
+                "longitude": "0270530E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "GR",
+            "cityCode": "KGS",
+            "timeZoneCode": "GR",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "KIV",
+        "inActive": false,
+        "fullName": "Chisinau",
+        "shortName": "Chisinau",
+        "countryCode": "MD",
+        "countryName": "Moldova, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "465540N",
+                "longitude": "0285558E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "MD",
+            "cityCode": "KIV",
+            "timeZoneCode": "MD",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "KRK",
+        "inActive": false,
+        "fullName": "Krakow",
+        "shortName": "Krakow",
+        "countryCode": "PL",
+        "countryName": "Poland, Polish Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "500500N",
+                "longitude": "0194700E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "PL",
+            "cityCode": "KRK",
+            "timeZoneCode": "PL",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "KRS",
+        "inActive": false,
+        "fullName": "Kristiansand",
+        "shortName": "Kristiansand",
+        "countryCode": "NO",
+        "countryName": "Norway, Kingdom of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "581215N",
+                "longitude": "0080507E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "212",
+            "countryCode": "NO",
+            "cityCode": "KRS",
+            "timeZoneCode": "NO",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "KSC",
+        "inActive": false,
+        "fullName": "Kosice",
+        "shortName": "Kosice",
+        "countryCode": "SK",
+        "countryName": "Slovakia (Slovak Republic)",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "484000N",
+                "longitude": "0211500E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "SK",
+            "cityCode": "KSC",
+            "timeZoneCode": "SK",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "KSU",
+        "inActive": false,
+        "fullName": "Kristiansund, Kvernberget",
+        "shortName": "Kristiansund, Kvernberget",
+        "countryCode": "NO",
+        "countryName": "Norway, Kingdom of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "630653N",
+                "longitude": "0075040E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "212",
+            "countryCode": "NO",
+            "cityCode": "KSU",
+            "timeZoneCode": "NO",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "KTW",
+        "inActive": false,
+        "fullName": "Katowice",
+        "shortName": "Katowice",
+        "countryCode": "PL",
+        "countryName": "Poland, Polish Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "502827N",
+                "longitude": "0190448E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "PL",
+            "cityCode": "KTW",
+            "timeZoneCode": "PL",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "KUN",
+        "inActive": false,
+        "fullName": "Kaunas",
+        "shortName": "Kaunas",
+        "countryCode": "LT",
+        "countryName": "Lithuania",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "545752N",
+                "longitude": "0240429E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "LT",
+            "cityCode": "KUN",
+            "timeZoneCode": "LT",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "KUT",
+        "inActive": false,
+        "fullName": "Kutaisi",
+        "shortName": "Kutaisi",
+        "countryCode": "GE",
+        "countryName": "Georgia",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "421459N",
+                "longitude": "0423715E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "GE",
+            "cityCode": "KUT",
+            "timeZoneCode": "GE",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "KVA",
+        "inActive": false,
+        "fullName": "Kavala",
+        "shortName": "Kavala International Airport",
+        "countryCode": "GR",
+        "countryName": "Greece, Hellenic Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "405448N",
+                "longitude": "0243709E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "GR",
+            "cityCode": "KVA",
+            "timeZoneCode": "GR",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "KWI",
+        "inActive": false,
+        "fullName": "Kuwait",
+        "shortName": "Kuwait",
+        "countryCode": "KW",
+        "countryName": "Kuwait, State of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "291336N",
+                "longitude": "0475847E"
+            },
+            "zoneCode": "22",
+            "subZoneCode": "220",
+            "countryCode": "KW",
+            "cityCode": "KWI",
+            "timeZoneCode": "KW",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "KZN",
+        "inActive": false,
+        "fullName": "Kazan",
+        "shortName": "Kazan",
+        "countryCode": "RU",
+        "countryName": "Russian Federation",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "553633N",
+                "longitude": "0491639E"
+            },
+            "zoneCode": "36",
+            "subZoneCode": "360",
+            "countryCode": "RU",
+            "cityCode": "KZN",
+            "timeZoneCode": "RU2",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "LAX",
+        "inActive": false,
+        "fullName": "Los Angeles International Airport",
+        "shortName": "Los Angeles International Airpor",
+        "countryCode": "US",
+        "countryName": "United States of America",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "335632N",
+                "longitude": "1182426W"
+            },
+            "zoneCode": "00",
+            "subZoneCode": "001",
+            "countryCode": "US",
+            "provinceStateCode": "CA",
+            "cityCode": "LAX",
+            "timeZoneCode": "US4",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 1
+        }
+    },
+    {
+        "stationCode": "LBC",
+        "inActive": false,
+        "fullName": "Hamburg Luebeck",
+        "shortName": "Hamburg Luebeck",
+        "countryCode": "DE",
+        "countryName": "Germany",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "534819N",
+                "longitude": "0104309E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "DE",
+            "cityCode": "HAM",
+            "timeZoneCode": "DE",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "LCA",
+        "inActive": false,
+        "fullName": "Larnaca",
+        "shortName": "Larnaca",
+        "countryCode": "CY",
+        "countryName": "Cyprus, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "345230N",
+                "longitude": "0333729E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "CY",
+            "cityCode": "LCA",
+            "timeZoneCode": "CY",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "LED",
+        "inActive": false,
+        "fullName": "Saint Petersburg",
+        "shortName": "Saint Petersburg",
+        "countryCode": "RU",
+        "countryName": "Russian Federation",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "594801N",
+                "longitude": "0301545E"
+            },
+            "zoneCode": "36",
+            "subZoneCode": "360",
+            "countryCode": "RU",
+            "cityCode": "LED",
+            "timeZoneCode": "RU2",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "LEJ",
+        "inActive": false,
+        "fullName": "Leipzig",
+        "shortName": "Leipzig",
+        "countryCode": "DE",
+        "countryName": "Germany",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "512557N",
+                "longitude": "0121430E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "DE",
+            "cityCode": "LEJ",
+            "timeZoneCode": "DE",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "LGG",
+        "inActive": false,
+        "fullName": "Liege Airport",
+        "shortName": "Liege Airport",
+        "countryCode": "BE",
+        "countryName": "Belgium, Kingdom of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "503815N",
+                "longitude": "0052636E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "BE",
+            "cityCode": "LGG",
+            "timeZoneCode": "BE",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "LGW",
+        "inActive": false,
+        "fullName": "London Gatwick",
+        "shortName": "London Gatwick",
+        "countryCode": "GB",
+        "countryName": "United Kingdom of Great Britain & N. Ireland",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "510853N",
+                "longitude": "0001148W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "GB",
+            "provinceStateCode": "EN",
+            "cityCode": "LON",
+            "timeZoneCode": "GB",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "LIL",
+        "inActive": false,
+        "fullName": "Lille (Lesquin Airport)",
+        "shortName": "Lille (Lesquin Airport)",
+        "countryCode": "FR",
+        "countryName": "France, French Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "503352N",
+                "longitude": "0030517E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "FR",
+            "cityCode": "LIL",
+            "timeZoneCode": "FR",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "LIN",
+        "inActive": false,
+        "fullName": "Milan Linate",
+        "shortName": "Milan Linate",
+        "countryCode": "IT",
+        "countryName": "Italy, Italian Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "452658N",
+                "longitude": "0091642E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "IT",
+            "cityCode": "MIL",
+            "timeZoneCode": "IT",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "LIS",
+        "inActive": false,
+        "fullName": "Lisbon",
+        "shortName": "Lisbon",
+        "countryCode": "PT",
+        "countryName": "Portugal, Portuguese Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "384655N",
+                "longitude": "0090800W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "211",
+            "countryCode": "PT",
+            "cityCode": "LIS",
+            "timeZoneCode": "PT1",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "LJU",
+        "inActive": false,
+        "fullName": "Ljubljana",
+        "shortName": "Ljubljana",
+        "countryCode": "SI",
+        "countryName": "Slovenia",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "461325N",
+                "longitude": "0142727E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "SI",
+            "cityCode": "LJU",
+            "timeZoneCode": "SI",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "LMP",
+        "inActive": false,
+        "fullName": "Lampedusa",
+        "shortName": "Lampedusa",
+        "countryCode": "IT",
+        "countryName": "Italy, Italian Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "352953N",
+                "longitude": "0123706E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "IT",
+            "cityCode": "LMP",
+            "timeZoneCode": "IT",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "LNZ",
+        "inActive": false,
+        "fullName": "Blue Danube Airport",
+        "shortName": "Blue Danube Airport",
+        "countryCode": "AT",
+        "countryName": "Austria, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "481400N",
+                "longitude": "0141115E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "AT",
+            "cityCode": "LNZ",
+            "timeZoneCode": "AT",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "LPA",
+        "inActive": false,
+        "fullName": "Las Palmas (Gran Canaria)",
+        "shortName": "Gran Canaria (Canary Islands)",
+        "countryCode": "ES",
+        "countryName": "Spain, Spanish State",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "275555N",
+                "longitude": "0152312W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "211",
+            "countryCode": "ES",
+            "provinceStateCode": "CI",
+            "cityCode": "LPA",
+            "timeZoneCode": "ES2",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "LPL",
+        "inActive": false,
+        "fullName": "Liverpool",
+        "shortName": "Liverpool",
+        "countryCode": "GB",
+        "countryName": "United Kingdom of Great Britain & N. Ireland",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "532018N",
+                "longitude": "0025200W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "GB",
+            "provinceStateCode": "EN",
+            "cityCode": "LPL",
+            "timeZoneCode": "GB",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "LTN",
+        "inActive": false,
+        "fullName": "London Luton",
+        "shortName": "London Luton",
+        "countryCode": "GB",
+        "countryName": "United Kingdom of Great Britain & N. Ireland",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "515300N",
+                "longitude": "0002106W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "GB",
+            "provinceStateCode": "EN",
+            "cityCode": "LON",
+            "timeZoneCode": "GB",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "LUX",
+        "inActive": false,
+        "fullName": "Luxembourg Airport",
+        "shortName": "Luxembourg Airport",
+        "countryCode": "LU",
+        "countryName": "Luxembourg, Grand Duchy of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "493740N",
+                "longitude": "0061224E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "LU",
+            "cityCode": "LUX",
+            "timeZoneCode": "LU",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "LUZ",
+        "inActive": false,
+        "fullName": "Lublin",
+        "shortName": "Lublin",
+        "countryCode": "PL",
+        "countryName": "Poland, Polish Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "511419N",
+                "longitude": "0224248E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "PL",
+            "cityCode": "QLU",
+            "timeZoneCode": "PL",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "LWO",
+        "inActive": false,
+        "fullName": "Lviv",
+        "shortName": "Lviv",
+        "countryCode": "UA",
+        "countryName": "Ukraine",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "494900N",
+                "longitude": "0235100E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "UA",
+            "cityCode": "LWO",
+            "timeZoneCode": "UA",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "LXR",
+        "inActive": false,
+        "fullName": "Luxor",
+        "shortName": "Luxor",
+        "countryCode": "EG",
+        "countryName": "Egypt, Arab Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "254023N",
+                "longitude": "0324227E"
+            },
+            "zoneCode": "22",
+            "subZoneCode": "220",
+            "countryCode": "EG",
+            "cityCode": "LXR",
+            "timeZoneCode": "EG",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "LYS",
+        "inActive": false,
+        "fullName": "Lyon",
+        "shortName": "Lyon",
+        "countryCode": "FR",
+        "countryName": "France, French Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "454332N",
+                "longitude": "0050452E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "FR",
+            "cityCode": "LYS",
+            "timeZoneCode": "FR",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "MAD",
+        "inActive": false,
+        "fullName": "Madrid",
+        "shortName": "Madrid",
+        "countryCode": "ES",
+        "countryName": "Spain, Spanish State",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "402820N",
+                "longitude": "0033348W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "211",
+            "countryCode": "ES",
+            "provinceStateCode": "SP",
+            "cityCode": "MAD",
+            "timeZoneCode": "ES1",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "MAH",
+        "inActive": false,
+        "fullName": "Mahon",
+        "shortName": "Menorca",
+        "countryCode": "ES",
+        "countryName": "Spain, Spanish State",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "395141N",
+                "longitude": "0041255E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "211",
+            "countryCode": "ES",
+            "provinceStateCode": "SP",
+            "cityCode": "MAH",
+            "timeZoneCode": "ES1",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "MCT",
+        "inActive": false,
+        "fullName": "Muscat",
+        "shortName": "Muscat",
+        "countryCode": "OM",
+        "countryName": "Oman, Sultanate of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "233530N",
+                "longitude": "0581645E"
+            },
+            "zoneCode": "22",
+            "subZoneCode": "220",
+            "countryCode": "OM",
+            "cityCode": "MCT",
+            "timeZoneCode": "OM",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "MIA",
+        "inActive": false,
+        "fullName": "Miami International Airport",
+        "shortName": "Miami International Airport",
+        "countryCode": "US",
+        "countryName": "United States of America",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "254743N",
+                "longitude": "0801724W"
+            },
+            "zoneCode": "00",
+            "subZoneCode": "001",
+            "countryCode": "US",
+            "provinceStateCode": "FL",
+            "cityCode": "MIA",
+            "timeZoneCode": "US1",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 1
+        }
+    },
+    {
+        "stationCode": "MLA",
+        "inActive": false,
+        "fullName": "Malta",
+        "shortName": "Malta",
+        "countryCode": "MT",
+        "countryName": "Malta, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "355127N",
+                "longitude": "0142839E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "MT",
+            "cityCode": "MLA",
+            "timeZoneCode": "MT",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "MLH",
+        "inActive": false,
+        "fullName": "Basel-Mulhouse-Freiburg",
+        "shortName": "Mulhouse",
+        "countryCode": "FR",
+        "countryName": "France, French Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "473524N",
+                "longitude": "0073145E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "FR",
+            "cityCode": "MLH",
+            "timeZoneCode": "FR",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "MMX",
+        "inActive": false,
+        "fullName": "Malmo",
+        "shortName": "Malmo",
+        "countryCode": "SE",
+        "countryName": "Sweden, Kingdom of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "553207N",
+                "longitude": "0132220E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "212",
+            "countryCode": "SE",
+            "cityCode": "MMA",
+            "timeZoneCode": "SE",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "MOL",
+        "inActive": false,
+        "fullName": "Molde",
+        "shortName": "Molde",
+        "countryCode": "NO",
+        "countryName": "Norway, Kingdom of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "624441N",
+                "longitude": "0071545E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "212",
+            "countryCode": "NO",
+            "cityCode": "MOL",
+            "timeZoneCode": "NO",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "MRS",
+        "inActive": false,
+        "fullName": "Marseille (Provence Airport)",
+        "shortName": "Marseille (Provence Airport)",
+        "countryCode": "FR",
+        "countryName": "France, French Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "432612N",
+                "longitude": "0051254E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "FR",
+            "cityCode": "MRS",
+            "timeZoneCode": "FR",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "MSQ",
+        "inActive": false,
+        "fullName": "Minsk International 2 Airport",
+        "shortName": "Minsk International 2 Airport",
+        "countryCode": "BY",
+        "countryName": "Belarus",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "535200N",
+                "longitude": "0273300E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "BY",
+            "cityCode": "MSQ",
+            "timeZoneCode": "BY",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "MST",
+        "inActive": false,
+        "fullName": "Maastricht Aachen",
+        "shortName": "Maastricht Aachen",
+        "countryCode": "NL",
+        "countryName": "Netherlands, Kingdom of the",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "505442N",
+                "longitude": "0054613E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "NL",
+            "cityCode": "MST",
+            "timeZoneCode": "NL",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "MUC",
+        "inActive": false,
+        "fullName": "Munich International",
+        "shortName": "Munich International",
+        "countryCode": "DE",
+        "countryName": "Germany",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "482114N",
+                "longitude": "0114710E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "DE",
+            "cityCode": "MUC",
+            "timeZoneCode": "DE",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "MXP",
+        "inActive": false,
+        "fullName": "Milan Malpensa",
+        "shortName": "Milan Malpensa",
+        "countryCode": "IT",
+        "countryName": "Italy, Italian Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "453748N",
+                "longitude": "0084323E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "IT",
+            "cityCode": "MIL",
+            "timeZoneCode": "IT",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "NAP",
+        "inActive": false,
+        "fullName": "Naples",
+        "shortName": "Naples",
+        "countryCode": "IT",
+        "countryName": "Italy, Italian Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "405304N",
+                "longitude": "0141727E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "IT",
+            "cityCode": "NAP",
+            "timeZoneCode": "IT",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "NCE",
+        "inActive": false,
+        "fullName": "Nice",
+        "shortName": "Nice",
+        "countryCode": "FR",
+        "countryName": "France, French Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "433950N",
+                "longitude": "0071303E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "FR",
+            "cityCode": "NCE",
+            "timeZoneCode": "FR",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "NQZ",
+        "inActive": false,
+        "fullName": "Nur Sultan",
+        "shortName": "Nur Sultan",
+        "countryCode": "KZ",
+        "countryName": "Kazakhstan, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "510121N",
+                "longitude": "0712758E"
+            },
+            "zoneCode": "32",
+            "subZoneCode": "320",
+            "countryCode": "KZ",
+            "cityCode": "TSE",
+            "timeZoneCode": "KG",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "NUE",
+        "inActive": false,
+        "fullName": "Nuremberg",
+        "shortName": "Nuremberg",
+        "countryCode": "DE",
+        "countryName": "Germany",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "492955N",
+                "longitude": "0110401E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "DE",
+            "cityCode": "NUE",
+            "timeZoneCode": "DE",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "NYO",
+        "inActive": false,
+        "fullName": "Skavsta",
+        "shortName": "Stockholm Skavsta",
+        "countryCode": "SE",
+        "countryName": "Sweden, Kingdom of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "584706N",
+                "longitude": "0165525E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "212",
+            "countryCode": "SE",
+            "cityCode": "STO",
+            "timeZoneCode": "SE",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "ODS",
+        "inActive": false,
+        "fullName": "Odessa",
+        "shortName": "Odessa",
+        "countryCode": "UA",
+        "countryName": "Ukraine",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "462600N",
+                "longitude": "0304100E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "UA",
+            "cityCode": "ODS",
+            "timeZoneCode": "UA",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "OHD",
+        "inActive": false,
+        "fullName": "Ohrid",
+        "shortName": "Ohrid",
+        "countryCode": "MK",
+        "countryName": "Macedonia, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "411048N",
+                "longitude": "0204432E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "MK",
+            "cityCode": "OHD",
+            "timeZoneCode": "MK",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "OLB",
+        "inActive": false,
+        "fullName": "Olbia (Sardinia)",
+        "shortName": "Olbia (Sardinia)",
+        "countryCode": "IT",
+        "countryName": "Italy, Italian Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "405355N",
+                "longitude": "0093104E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "IT",
+            "cityCode": "OLB",
+            "timeZoneCode": "IT",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "OPO",
+        "inActive": false,
+        "fullName": "Porto",
+        "shortName": "Porto",
+        "countryCode": "PT",
+        "countryName": "Portugal, Portuguese Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "411428N",
+                "longitude": "0084045W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "211",
+            "countryCode": "PT",
+            "cityCode": "OPO",
+            "timeZoneCode": "PT1",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "ORD",
+        "inActive": false,
+        "fullName": "O'Hare International Airport",
+        "shortName": "O'Hare International Airport",
+        "countryCode": "US",
+        "countryName": "United States of America",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "415841N",
+                "longitude": "0875422W"
+            },
+            "zoneCode": "00",
+            "subZoneCode": "001",
+            "countryCode": "US",
+            "provinceStateCode": "IL",
+            "cityCode": "CHI",
+            "timeZoneCode": "US2",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 1
+        }
+    },
+    {
+        "stationCode": "ORK",
+        "inActive": false,
+        "fullName": "Cork",
+        "shortName": "Cork",
+        "countryCode": "IE",
+        "countryName": "Ireland",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "515029N",
+                "longitude": "0082928W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "IE",
+            "cityCode": "ORK",
+            "timeZoneCode": "IE",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "ORY",
+        "inActive": false,
+        "fullName": "Paris Orly",
+        "shortName": "Paris Orly",
+        "countryCode": "FR",
+        "countryName": "France, French Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "484344N",
+                "longitude": "0022126E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "FR",
+            "cityCode": "PAR",
+            "timeZoneCode": "FR",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "OSI",
+        "inActive": false,
+        "fullName": "Osijek",
+        "shortName": "Osijek",
+        "countryCode": "HR",
+        "countryName": "Hrvatska (Croatia)",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "452749N",
+                "longitude": "0184834E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "HR",
+            "cityCode": "OSI",
+            "timeZoneCode": "HR",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "OSL",
+        "inActive": false,
+        "fullName": "Oslo Airport",
+        "shortName": "Oslo",
+        "countryCode": "NO",
+        "countryName": "Norway, Kingdom of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "601138N",
+                "longitude": "0110601E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "212",
+            "countryCode": "NO",
+            "cityCode": "OSL",
+            "timeZoneCode": "NO",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "OTP",
+        "inActive": false,
+        "fullName": "Bucharest H. Coanda",
+        "shortName": "Bucharest",
+        "countryCode": "RO",
+        "countryName": "Romania, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "443414N",
+                "longitude": "0260503E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "RO",
+            "cityCode": "BUH",
+            "timeZoneCode": "RO",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "OZH",
+        "inActive": false,
+        "fullName": "Zaporizhia",
+        "shortName": "Zaporizhia",
+        "countryCode": "UA",
+        "countryName": "Ukraine",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "475203N",
+                "longitude": "0351857E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "UA",
+            "cityCode": "OZH",
+            "timeZoneCode": "UA",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "PAD",
+        "inActive": false,
+        "fullName": "Paderborn",
+        "shortName": "Paderborn",
+        "countryCode": "DE",
+        "countryName": "Germany",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "513654N",
+                "longitude": "0083716E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "DE",
+            "cityCode": "PAD",
+            "timeZoneCode": "DE",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "PDV",
+        "inActive": false,
+        "fullName": "Plovdiv",
+        "shortName": "Plovdiv",
+        "countryCode": "BG",
+        "countryName": "Bulgaria, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "420404N",
+                "longitude": "0245103E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "BG",
+            "cityCode": "PDV",
+            "timeZoneCode": "BG",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "PED",
+        "inActive": false,
+        "fullName": "Pardubice Airport",
+        "shortName": "Pardubice Airport",
+        "countryCode": "CZ",
+        "countryName": "Czech Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "500048N",
+                "longitude": "0154419E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "CZ",
+            "cityCode": "PED",
+            "timeZoneCode": "CZ",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "PEG",
+        "inActive": false,
+        "fullName": "Perugia",
+        "shortName": "Perugia",
+        "countryCode": "IT",
+        "countryName": "Italy, Italian Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "430550N",
+                "longitude": "0123037E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "IT",
+            "cityCode": "PEG",
+            "timeZoneCode": "IT",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "PIK",
+        "inActive": false,
+        "fullName": "Glasgow Prestwick",
+        "shortName": "Glasgow Prestwick",
+        "countryCode": "GB",
+        "countryName": "United Kingdom of Great Britain & N. Ireland",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "553011N",
+                "longitude": "0043432W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "GB",
+            "provinceStateCode": "SC",
+            "cityCode": "GLA",
+            "timeZoneCode": "GB",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "PLQ",
+        "inActive": false,
+        "fullName": "Palanga - Klaipeda",
+        "shortName": "Palanga",
+        "countryCode": "LT",
+        "countryName": "Lithuania",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "555700N",
+                "longitude": "0210500E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "LT",
+            "cityCode": "PLQ",
+            "timeZoneCode": "LT",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "PMI",
+        "inActive": false,
+        "fullName": "Palma de Mallorca",
+        "shortName": "Palma de Mallorca",
+        "countryCode": "ES",
+        "countryName": "Spain, Spanish State",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "393306N",
+                "longitude": "0024420E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "211",
+            "countryCode": "ES",
+            "provinceStateCode": "SP",
+            "cityCode": "PMI",
+            "timeZoneCode": "ES1",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "PMO",
+        "inActive": false,
+        "fullName": "Palermo",
+        "shortName": "Palermo",
+        "countryCode": "IT",
+        "countryName": "Italy, Italian Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "381033N",
+                "longitude": "0130528E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "IT",
+            "cityCode": "PMO",
+            "timeZoneCode": "IT",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "POZ",
+        "inActive": false,
+        "fullName": "Poznan",
+        "shortName": "Poznan",
+        "countryCode": "PL",
+        "countryName": "Poland, Polish Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "522453N",
+                "longitude": "0164943E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "PL",
+            "cityCode": "POZ",
+            "timeZoneCode": "PL",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "PRG",
+        "inActive": false,
+        "fullName": "Prague",
+        "shortName": "Prague",
+        "countryCode": "CZ",
+        "countryName": "Czech Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "500603N",
+                "longitude": "0141536E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "CZ",
+            "cityCode": "PRG",
+            "timeZoneCode": "CZ",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "PRN",
+        "inActive": false,
+        "fullName": "Prishtina International Airport \"Adem Jashari\"",
+        "shortName": "Prishtina",
+        "countryCode": "XK",
+        "countryName": "Kosovo",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "423425N",
+                "longitude": "0210208E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "XK",
+            "cityCode": "PRN",
+            "timeZoneCode": "RS",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "PSA",
+        "inActive": false,
+        "fullName": "Pisa",
+        "shortName": "Pisa",
+        "countryCode": "IT",
+        "countryName": "Italy, Italian Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "434058N",
+                "longitude": "0102344E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "IT",
+            "cityCode": "PSA",
+            "timeZoneCode": "IT",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "PSR",
+        "inActive": false,
+        "fullName": "Pescara",
+        "shortName": "Pescara",
+        "countryCode": "IT",
+        "countryName": "Italy, Italian Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "422614N",
+                "longitude": "0141114E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "IT",
+            "cityCode": "PSR",
+            "timeZoneCode": "IT",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "PVK",
+        "inActive": false,
+        "fullName": "Preveza Airport",
+        "shortName": "Preveza Airport",
+        "countryCode": "GR",
+        "countryName": "Greece, Hellenic Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "385532N",
+                "longitude": "0204555E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "GR",
+            "cityCode": "PVK",
+            "timeZoneCode": "GR",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "RAI",
+        "inActive": false,
+        "fullName": "Francisco Mendes Airport",
+        "shortName": "Francisco Mendes Airport",
+        "countryCode": "CV",
+        "countryName": "Cape Verde, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "145628N",
+                "longitude": "0232905W"
+            },
+            "zoneCode": "23",
+            "subZoneCode": "231",
+            "countryCode": "CV",
+            "cityCode": "RAI",
+            "timeZoneCode": "CV",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "RAK",
+        "inActive": false,
+        "fullName": "Marrakesh",
+        "shortName": "Marrakesh",
+        "countryCode": "MA",
+        "countryName": "Morocco, Kingdom of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "313630N",
+                "longitude": "0080218W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "MA",
+            "cityCode": "RAK",
+            "timeZoneCode": "MA",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "RBA",
+        "inActive": false,
+        "fullName": "Sale Airport",
+        "shortName": "Sale Airport",
+        "countryCode": "MA",
+        "countryName": "Morocco, Kingdom of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "340305N",
+                "longitude": "0064505W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "MA",
+            "cityCode": "RBA",
+            "timeZoneCode": "MA",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "RHO",
+        "inActive": false,
+        "fullName": "Rhodes",
+        "shortName": "Rhodes",
+        "countryCode": "GR",
+        "countryName": "Greece, Hellenic Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "362420N",
+                "longitude": "0280510E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "GR",
+            "cityCode": "RHO",
+            "timeZoneCode": "GR",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "RIX",
+        "inActive": false,
+        "fullName": "Riga",
+        "shortName": "Riga",
+        "countryCode": "LV",
+        "countryName": "Latvia",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "565525N",
+                "longitude": "0235816E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "LV",
+            "cityCode": "RIX",
+            "timeZoneCode": "LV",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "RJK",
+        "inActive": false,
+        "fullName": "Rijeka Airport",
+        "shortName": "Rijeka Airport",
+        "countryCode": "HR",
+        "countryName": "Hrvatska (Croatia)",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "451301N",
+                "longitude": "0143413E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "HR",
+            "cityCode": "RJK",
+            "timeZoneCode": "HR",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "RMI",
+        "inActive": false,
+        "fullName": "Miramare Airport",
+        "shortName": "Miramare Airport",
+        "countryCode": "IT",
+        "countryName": "Italy, Italian Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "440110N",
+                "longitude": "0123634E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "IT",
+            "cityCode": "RMI",
+            "timeZoneCode": "IT",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "ROV",
+        "inActive": false,
+        "fullName": "Rostov Airport",
+        "shortName": "Rostov Airport",
+        "countryCode": "RU",
+        "countryName": "Russian Federation",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "471518N",
+                "longitude": "0394812E"
+            },
+            "zoneCode": "36",
+            "subZoneCode": "360",
+            "countryCode": "RU",
+            "cityCode": "ROV",
+            "timeZoneCode": "RU2",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "RTM",
+        "inActive": false,
+        "fullName": "Rotterdam Airport",
+        "shortName": "Rotterdam Airport",
+        "countryCode": "NL",
+        "countryName": "Netherlands, Kingdom of the",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "515730N",
+                "longitude": "0042640E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "NL",
+            "cityCode": "RTM",
+            "timeZoneCode": "NL",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "RUH",
+        "inActive": false,
+        "fullName": "King Khaled International Airport",
+        "shortName": "King Khaled International Airpor",
+        "countryCode": "SA",
+        "countryName": "Saudi Arabia, Kingdom of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "245746N",
+                "longitude": "0464229E"
+            },
+            "zoneCode": "22",
+            "subZoneCode": "220",
+            "countryCode": "SA",
+            "cityCode": "RUH",
+            "timeZoneCode": "SA",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "RZE",
+        "inActive": false,
+        "fullName": "Rzeszow",
+        "shortName": "Rzeszow",
+        "countryCode": "PL",
+        "countryName": "Poland, Polish Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "500636N",
+                "longitude": "0220108E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "PL",
+            "cityCode": "RZE",
+            "timeZoneCode": "PL",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "SAW",
+        "inActive": false,
+        "fullName": "Istanbul",
+        "shortName": "Istanbul",
+        "countryCode": "TR",
+        "countryName": "Turkey, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "405358N",
+                "longitude": "0291833E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "TR",
+            "cityCode": "IST",
+            "timeZoneCode": "TR",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "SBZ",
+        "inActive": false,
+        "fullName": "Sibiu",
+        "shortName": "Sibiu",
+        "countryCode": "RO",
+        "countryName": "Romania, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "454709N",
+                "longitude": "0240508E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "RO",
+            "cityCode": "SBZ",
+            "timeZoneCode": "RO",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "SCO",
+        "inActive": false,
+        "fullName": "Aktau Airport",
+        "shortName": "Aktau Airport",
+        "countryCode": "KZ",
+        "countryName": "Kazakhstan, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "435136N",
+                "longitude": "0510527E"
+            },
+            "zoneCode": "32",
+            "subZoneCode": "320",
+            "countryCode": "KZ",
+            "cityCode": "SCO",
+            "timeZoneCode": "KZ1",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "SCV",
+        "inActive": false,
+        "fullName": "Suceava",
+        "shortName": "Suceava",
+        "countryCode": "RO",
+        "countryName": "Romania, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "474115N",
+                "longitude": "0262115E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "RO",
+            "cityCode": "SCV",
+            "timeZoneCode": "RO",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "SDR",
+        "inActive": false,
+        "fullName": "Santander Airport",
+        "shortName": "Santander",
+        "countryCode": "ES",
+        "countryName": "Spain, Spanish State",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "432545N",
+                "longitude": "0034935W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "211",
+            "countryCode": "ES",
+            "provinceStateCode": "SP",
+            "cityCode": "SDR",
+            "timeZoneCode": "ES1",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "SEN",
+        "inActive": false,
+        "fullName": "London Southend",
+        "shortName": "London Southend",
+        "countryCode": "GB",
+        "countryName": "United Kingdom of Great Britain & N. Ireland",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "513422N",
+                "longitude": "0004205E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "GB",
+            "provinceStateCode": "EN",
+            "cityCode": "SEN",
+            "timeZoneCode": "GB",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "SFT",
+        "inActive": false,
+        "fullName": "Skelleftea Airport",
+        "shortName": "Skelleftea",
+        "countryCode": "SE",
+        "countryName": "Sweden, Kingdom of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "643729N",
+                "longitude": "0210437E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "212",
+            "countryCode": "SE",
+            "cityCode": "SFT",
+            "timeZoneCode": "SE",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "SJJ",
+        "inActive": false,
+        "fullName": "Sarajevo International Airport",
+        "shortName": "Sarajevo",
+        "countryCode": "BA",
+        "countryName": "Bosnia and Herzegovina",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "434928N",
+                "longitude": "0181953E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "BA",
+            "cityCode": "SJJ",
+            "timeZoneCode": "BA",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "SKG",
+        "inActive": false,
+        "fullName": "Thessaloniki",
+        "shortName": "Thessaloniki",
+        "countryCode": "GR",
+        "countryName": "Greece, Hellenic Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "403111N",
+                "longitude": "0225815E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "GR",
+            "cityCode": "SKG",
+            "timeZoneCode": "GR",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "SKP",
+        "inActive": false,
+        "fullName": "Skopje",
+        "shortName": "Skopje",
+        "countryCode": "MK",
+        "countryName": "Macedonia, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "415742N",
+                "longitude": "0213717E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "MK",
+            "cityCode": "SKP",
+            "timeZoneCode": "MK",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "SLL",
+        "inActive": false,
+        "fullName": "Salalah",
+        "shortName": "Salalah",
+        "countryCode": "OM",
+        "countryName": "Oman, Sultanate of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "170211N",
+                "longitude": "0540606E"
+            },
+            "zoneCode": "22",
+            "subZoneCode": "220",
+            "countryCode": "OM",
+            "cityCode": "SLL",
+            "timeZoneCode": "OM",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "SOF",
+        "inActive": false,
+        "fullName": "Sofia",
+        "shortName": "Sofia",
+        "countryCode": "BG",
+        "countryName": "Bulgaria, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "424143N",
+                "longitude": "0232422E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "BG",
+            "cityCode": "SOF",
+            "timeZoneCode": "BG",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "SPU",
+        "inActive": false,
+        "fullName": "Split",
+        "shortName": "Split",
+        "countryCode": "HR",
+        "countryName": "Hrvatska (Croatia)",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "433220N",
+                "longitude": "0161753E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "HR",
+            "cityCode": "SPU",
+            "timeZoneCode": "HR",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "SSH",
+        "inActive": false,
+        "fullName": "Sharm El Sheikh",
+        "shortName": "Sharm El Sheikh",
+        "countryCode": "EG",
+        "countryName": "Egypt, Arab Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "275838N",
+                "longitude": "0342342E"
+            },
+            "zoneCode": "22",
+            "subZoneCode": "220",
+            "countryCode": "EG",
+            "cityCode": "SSH",
+            "timeZoneCode": "EG",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "STR",
+        "inActive": false,
+        "fullName": "Stuttgart Airport",
+        "shortName": "Stuttgart Airport",
+        "countryCode": "DE",
+        "countryName": "Germany",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "484124N",
+                "longitude": "0091319E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "DE",
+            "cityCode": "STR",
+            "timeZoneCode": "DE",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "SUF",
+        "inActive": false,
+        "fullName": "Lamezia-Terme",
+        "shortName": "Lamezia-Terme",
+        "countryCode": "IT",
+        "countryName": "Italy, Italian Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "385419N",
+                "longitude": "0161432E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "IT",
+            "cityCode": "SUF",
+            "timeZoneCode": "IT",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "SUJ",
+        "inActive": false,
+        "fullName": "Satu Mare",
+        "shortName": "Satu Mare",
+        "countryCode": "RO",
+        "countryName": "Romania, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "474212N",
+                "longitude": "0225309E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "RO",
+            "cityCode": "SUJ",
+            "timeZoneCode": "RO",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "SVG",
+        "inActive": false,
+        "fullName": "Stavanger",
+        "shortName": "Stavanger",
+        "countryCode": "NO",
+        "countryName": "Norway, Kingdom of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "585236N",
+                "longitude": "0053816E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "212",
+            "countryCode": "NO",
+            "cityCode": "SVG",
+            "timeZoneCode": "NO",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "SVO",
+        "inActive": false,
+        "fullName": "Sheremetyevo Airport",
+        "shortName": "Sheremetyevo Airport",
+        "countryCode": "RU",
+        "countryName": "Russian Federation",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "555900N",
+                "longitude": "0372500E"
+            },
+            "zoneCode": "36",
+            "subZoneCode": "360",
+            "countryCode": "RU",
+            "cityCode": "MOW",
+            "timeZoneCode": "RU2",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "SVQ",
+        "inActive": false,
+        "fullName": "Sevilla",
+        "shortName": "Sevilla",
+        "countryCode": "ES",
+        "countryName": "Spain, Spanish State",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "372505N",
+                "longitude": "0055335W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "211",
+            "countryCode": "ES",
+            "provinceStateCode": "SP",
+            "cityCode": "SVQ",
+            "timeZoneCode": "ES1",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "SXF",
+        "inActive": false,
+        "fullName": "Berlin Schoenefeld",
+        "shortName": "Berlin Schoenefeld",
+        "countryCode": "DE",
+        "countryName": "Germany",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "522200N",
+                "longitude": "0133000E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "DE",
+            "cityCode": "BER",
+            "timeZoneCode": "DE",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "SZG",
+        "inActive": false,
+        "fullName": "Salzburg",
+        "shortName": "Salzburg",
+        "countryCode": "AT",
+        "countryName": "Austria, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "474735N",
+                "longitude": "0130020E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "AT",
+            "cityCode": "SZG",
+            "timeZoneCode": "AT",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "SZY",
+        "inActive": false,
+        "fullName": "Olsztyn-Mazury Airport",
+        "shortName": "Olsztyn-Mazury",
+        "countryCode": "PL",
+        "countryName": "Poland, Polish Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "532855N",
+                "longitude": "0205616E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "PL",
+            "cityCode": "SZY",
+            "timeZoneCode": "PL",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "SZZ",
+        "inActive": false,
+        "fullName": "Szczecin",
+        "shortName": "Szczecin",
+        "countryCode": "PL",
+        "countryName": "Poland, Polish Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "533505N",
+                "longitude": "0145408E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "PL",
+            "cityCode": "SZZ",
+            "timeZoneCode": "PL",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "TAS",
+        "inActive": false,
+        "fullName": "Vostochny Airport",
+        "shortName": "Vostochny Airport",
+        "countryCode": "UZ",
+        "countryName": "Uzbekistan",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "411528N",
+                "longitude": "0691652E"
+            },
+            "zoneCode": "32",
+            "subZoneCode": "320",
+            "countryCode": "UZ",
+            "cityCode": "TAS",
+            "timeZoneCode": "UZ",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "TAT",
+        "inActive": false,
+        "fullName": "Poprad-Tatry",
+        "shortName": "Poprad-Tatry",
+        "countryCode": "SK",
+        "countryName": "Slovakia (Slovak Republic)",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "490419N",
+                "longitude": "0201425E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "SK",
+            "cityCode": "TAT",
+            "timeZoneCode": "SK",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "TBS",
+        "inActive": false,
+        "fullName": "Tbilisi",
+        "shortName": "Tbilisi",
+        "countryCode": "GE",
+        "countryName": "Georgia",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "414009N",
+                "longitude": "0445717E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "GE",
+            "cityCode": "TBS",
+            "timeZoneCode": "GE",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "TFS",
+        "inActive": false,
+        "fullName": "Tenerife (Canary Islands)",
+        "shortName": "Tenerife South",
+        "countryCode": "ES",
+        "countryName": "Spain, Spanish State",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "280240N",
+                "longitude": "0163421W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "211",
+            "countryCode": "ES",
+            "provinceStateCode": "CI",
+            "cityCode": "TCI",
+            "timeZoneCode": "ES2",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "TGD",
+        "inActive": false,
+        "fullName": "Podgorica",
+        "shortName": "Podgorica",
+        "countryCode": "ME",
+        "countryName": "Montenegro",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "422134N",
+                "longitude": "0191507E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "ME",
+            "cityCode": "TGD",
+            "timeZoneCode": "ME",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "TGM",
+        "inActive": false,
+        "fullName": "Targu Mures",
+        "shortName": "Targu Mures",
+        "countryCode": "RO",
+        "countryName": "Romania, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "463200N",
+                "longitude": "0243200E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "RO",
+            "cityCode": "TGM",
+            "timeZoneCode": "RO",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "TIA",
+        "inActive": false,
+        "fullName": "Tirana International Airport Nënë Tereza",
+        "shortName": "Tirana",
+        "countryCode": "AL",
+        "countryName": "Albania, People's Socialist Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "412453N",
+                "longitude": "0194314E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "AL",
+            "cityCode": "TIA",
+            "timeZoneCode": "AL",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "TIV",
+        "inActive": false,
+        "fullName": "Tivat",
+        "shortName": "Tivat",
+        "countryCode": "ME",
+        "countryName": "Montenegro",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "422413N",
+                "longitude": "0184332E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "ME",
+            "cityCode": "TIV",
+            "timeZoneCode": "ME",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "TKU",
+        "inActive": false,
+        "fullName": "Turku",
+        "shortName": "Turku",
+        "countryCode": "FI",
+        "countryName": "Finland, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "603051N",
+                "longitude": "0221546E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "FI",
+            "cityCode": "TKU",
+            "timeZoneCode": "FI",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "TLL",
+        "inActive": false,
+        "fullName": "Tallinn",
+        "shortName": "Tallinn",
+        "countryCode": "EE",
+        "countryName": "Estonia",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "592448N",
+                "longitude": "0244957E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "EE",
+            "cityCode": "TLL",
+            "timeZoneCode": "EE",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "TLS",
+        "inActive": false,
+        "fullName": "Toulouse (Blagnac Airport)",
+        "shortName": "Toulouse (Blagnac Airport)",
+        "countryCode": "FR",
+        "countryName": "France, French Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "433806N",
+                "longitude": "0012204E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "FR",
+            "cityCode": "TLS",
+            "timeZoneCode": "FR",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "TLV",
+        "inActive": false,
+        "fullName": "Tel Aviv",
+        "shortName": "Tel Aviv",
+        "countryCode": "IL",
+        "countryName": "Israel, State of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "320041N",
+                "longitude": "0345312E"
+            },
+            "zoneCode": "22",
+            "subZoneCode": "220",
+            "countryCode": "IL",
+            "cityCode": "TLV",
+            "timeZoneCode": "IL",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "TMP",
+        "inActive": false,
+        "fullName": "Tampere-Pirkkala Airport",
+        "shortName": "Tampere-Pirkkala Airport",
+        "countryCode": "FI",
+        "countryName": "Finland, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "612504N",
+                "longitude": "0233712E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "FI",
+            "cityCode": "TMP",
+            "timeZoneCode": "FI",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "TOS",
+        "inActive": false,
+        "fullName": "Tromso",
+        "shortName": "Tromso",
+        "countryCode": "NO",
+        "countryName": "Norway, Kingdom of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "694053N",
+                "longitude": "0185518E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "212",
+            "countryCode": "NO",
+            "cityCode": "TOS",
+            "timeZoneCode": "NO",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "TRD",
+        "inActive": false,
+        "fullName": "Trondheim",
+        "shortName": "Trondheim",
+        "countryCode": "NO",
+        "countryName": "Norway, Kingdom of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "632727N",
+                "longitude": "0105527E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "212",
+            "countryCode": "NO",
+            "cityCode": "TRD",
+            "timeZoneCode": "NO",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "TRF",
+        "inActive": false,
+        "fullName": "Oslo Torp",
+        "shortName": "Oslo Torp",
+        "countryCode": "NO",
+        "countryName": "Norway, Kingdom of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "591100N",
+                "longitude": "0101600E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "212",
+            "countryCode": "NO",
+            "cityCode": "OSL",
+            "timeZoneCode": "NO",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "TRN",
+        "inActive": false,
+        "fullName": "Turin",
+        "shortName": "Turin",
+        "countryCode": "IT",
+        "countryName": "Italy, Italian Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "451203N",
+                "longitude": "0073859E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "IT",
+            "cityCode": "TRN",
+            "timeZoneCode": "IT",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "TSE",
+        "inActive": false,
+        "fullName": "Astana",
+        "shortName": "Astana",
+        "countryCode": "KZ",
+        "countryName": "Kazakhstan, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "510121N",
+                "longitude": "0712758E"
+            },
+            "zoneCode": "32",
+            "subZoneCode": "320",
+            "countryCode": "KZ",
+            "cityCode": "TSE",
+            "timeZoneCode": "KZ2",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "TSF",
+        "inActive": false,
+        "fullName": "Venice Treviso",
+        "shortName": "Venice Treviso",
+        "countryCode": "IT",
+        "countryName": "Italy, Italian Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "453903N",
+                "longitude": "0121152E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "IT",
+            "cityCode": "VCE",
+            "timeZoneCode": "IT",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "TSR",
+        "inActive": false,
+        "fullName": "Timisoara",
+        "shortName": "Timisoara",
+        "countryCode": "RO",
+        "countryName": "Romania, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "454835N",
+                "longitude": "0212016E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "RO",
+            "cityCode": "TSR",
+            "timeZoneCode": "RO",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "TZL",
+        "inActive": false,
+        "fullName": "Tuzla",
+        "shortName": "Tuzla",
+        "countryCode": "BA",
+        "countryName": "Bosnia and Herzegovina",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "442731N",
+                "longitude": "0184329E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "BA",
+            "cityCode": "TZL",
+            "timeZoneCode": "BA",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "VAR",
+        "inActive": false,
+        "fullName": "Varna",
+        "shortName": "Varna",
+        "countryCode": "BG",
+        "countryName": "Bulgaria, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "431355N",
+                "longitude": "0274930E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "BG",
+            "cityCode": "VAR",
+            "timeZoneCode": "BG",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "VAS",
+        "inActive": false,
+        "fullName": "Sivas Airport",
+        "shortName": "Sivas Airport",
+        "countryCode": "TR",
+        "countryName": "Turkey, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "394850N",
+                "longitude": "0365413E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "TR",
+            "cityCode": "VAS",
+            "timeZoneCode": "TR",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "VCE",
+        "inActive": false,
+        "fullName": "Marco Polo Airport",
+        "shortName": "Marco Polo Airport",
+        "countryCode": "IT",
+        "countryName": "Italy, Italian Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "453019N",
+                "longitude": "0122107E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "IT",
+            "cityCode": "VCE",
+            "timeZoneCode": "IT",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "VIE",
+        "inActive": false,
+        "fullName": "Vienna",
+        "shortName": "Vienna",
+        "countryCode": "AT",
+        "countryName": "Austria, Republic of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "480637N",
+                "longitude": "0163411E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "AT",
+            "cityCode": "VIE",
+            "timeZoneCode": "AT",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "VKO",
+        "inActive": false,
+        "fullName": "Moscow Vnukovo",
+        "shortName": "Moscow Vnukovo",
+        "countryCode": "RU",
+        "countryName": "Russian Federation",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "553558N",
+                "longitude": "0371616E"
+            },
+            "zoneCode": "36",
+            "subZoneCode": "360",
+            "countryCode": "RU",
+            "cityCode": "MOW",
+            "timeZoneCode": "RU2",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "VLC",
+        "inActive": false,
+        "fullName": "Valencia Manises",
+        "shortName": "Valencia",
+        "countryCode": "ES",
+        "countryName": "Spain, Spanish State",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "392922N",
+                "longitude": "0002854W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "211",
+            "countryCode": "ES",
+            "provinceStateCode": "SP",
+            "cityCode": "VLC",
+            "timeZoneCode": "ES1",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "VNO",
+        "inActive": false,
+        "fullName": "Vilnius",
+        "shortName": "Vilnius",
+        "countryCode": "LT",
+        "countryName": "Lithuania",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "543813N",
+                "longitude": "0251716E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "LT",
+            "cityCode": "VNO",
+            "timeZoneCode": "LT",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "VRN",
+        "inActive": false,
+        "fullName": "Verona",
+        "shortName": "Verona",
+        "countryCode": "IT",
+        "countryName": "Italy, Italian Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "452345N",
+                "longitude": "0105319E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "IT",
+            "cityCode": "VRN",
+            "timeZoneCode": "IT",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "VXO",
+        "inActive": false,
+        "fullName": "Vaxjo",
+        "shortName": "Vaxjo",
+        "countryCode": "SE",
+        "countryName": "Sweden, Kingdom of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "565545N",
+                "longitude": "0144341E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "212",
+            "countryCode": "SE",
+            "cityCode": "VXO",
+            "timeZoneCode": "SE",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "WAW",
+        "inActive": false,
+        "fullName": "Warsaw Chopin",
+        "shortName": "Warsaw Chopin",
+        "countryCode": "PL",
+        "countryName": "Poland, Polish Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "521000N",
+                "longitude": "0205800E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "PL",
+            "cityCode": "WAW",
+            "timeZoneCode": "PL",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "WMI",
+        "inActive": false,
+        "fullName": "Warsaw-Modlin",
+        "shortName": "Warsaw-Modlin",
+        "countryCode": "PL",
+        "countryName": "Poland, Polish Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "522704N",
+                "longitude": "0203906E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "PL",
+            "cityCode": "WAW",
+            "timeZoneCode": "PL",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "WRO",
+        "inActive": false,
+        "fullName": "Wroclaw",
+        "shortName": "Wroclaw",
+        "countryCode": "PL",
+        "countryName": "Poland, Polish Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "510600N",
+                "longitude": "0165300E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "PL",
+            "cityCode": "WRO",
+            "timeZoneCode": "PL",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "XFW",
+        "inActive": false,
+        "fullName": "Finkenwerder Airport",
+        "shortName": "Finkenwerder Airport",
+        "countryCode": "DE",
+        "countryName": "Germany",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "523209N",
+                "longitude": "0095013E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "DE",
+            "cityCode": "HAM",
+            "timeZoneCode": "DE",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "XRY",
+        "inActive": false,
+        "fullName": "Jerez Airport",
+        "shortName": "Jerez Airport",
+        "countryCode": "ES",
+        "countryName": "Spain, Spanish State",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "364441N",
+                "longitude": "0060336W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "211",
+            "countryCode": "ES",
+            "provinceStateCode": "SP",
+            "cityCode": "XRY",
+            "timeZoneCode": "ES1",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "YNB",
+        "inActive": false,
+        "fullName": "Yanbu Airport",
+        "shortName": "Yanbu Airport",
+        "countryCode": "SA",
+        "countryName": "Saudi Arabia, Kingdom of",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "240700N",
+                "longitude": "0380400E"
+            },
+            "zoneCode": "22",
+            "subZoneCode": "220",
+            "countryCode": "SA",
+            "cityCode": "YNB",
+            "timeZoneCode": "SA",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "YYZ",
+        "inActive": false,
+        "fullName": "Pearson International Airport",
+        "shortName": "Pearson International Airport",
+        "countryCode": "CA",
+        "countryName": "Canada",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "434100N",
+                "longitude": "0793800W"
+            },
+            "zoneCode": "00",
+            "subZoneCode": "002",
+            "countryCode": "CA",
+            "provinceStateCode": "ON",
+            "cityCode": "YTO",
+            "timeZoneCode": "CA3",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "ZAD",
+        "inActive": false,
+        "fullName": "Zadar Airport",
+        "shortName": "Zadar Airport",
+        "countryCode": "HR",
+        "countryName": "Hrvatska (Croatia)",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "440630N",
+                "longitude": "0152048E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "HR",
+            "cityCode": "ZAD",
+            "timeZoneCode": "HR",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "ZAG",
+        "inActive": false,
+        "fullName": "Pleso Airport",
+        "shortName": "Pleso Airport",
+        "countryCode": "HR",
+        "countryName": "Hrvatska (Croatia)",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "454435N",
+                "longitude": "0160408E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "HR",
+            "cityCode": "ZAG",
+            "timeZoneCode": "HR",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "ZAZ",
+        "inActive": false,
+        "fullName": "Zaragoza",
+        "shortName": "Zaragoza",
+        "countryCode": "ES",
+        "countryName": "Spain, Spanish State",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "413958N",
+                "longitude": "0010230W"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "211",
+            "countryCode": "ES",
+            "provinceStateCode": "SP",
+            "cityCode": "ZAZ",
+            "timeZoneCode": "ES1",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "ZTH",
+        "inActive": false,
+        "fullName": "Zakynthos",
+        "shortName": "Zakynthos",
+        "countryCode": "GR",
+        "countryName": "Greece, Hellenic Republic",
+        "locationDetails": {
+            "coordinates": {
+                "latitude": "374503N",
+                "longitude": "0205303E"
+            },
+            "zoneCode": "21",
+            "subZoneCode": "210",
+            "countryCode": "GR",
+            "cityCode": "ZTH",
+            "timeZoneCode": "GR",
+            "thirdPartyControlled": true,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    },
+    {
+        "stationCode": "ZZF",
+        "inActive": false,
+        "fullName": "Unknown",
+        "shortName": "Unknown",
+        "countryCode": "AE",
+        "countryName": "United Arab Emirates",
+        "locationDetails": {
+            "coordinates": {},
+            "zoneCode": "22",
+            "subZoneCode": "220",
+            "countryCode": "AE",
+            "cityCode": "AUH",
+            "timeZoneCode": "AE",
+            "thirdPartyControlled": false,
+            "customsRequiredForCrew": false,
+            "weightType": 2
+        }
+    }
+]

@@ -91,10 +91,10 @@ export const CompletedRow = ({ guess, isRevealing }: Props) => {
         <h1 className="text-xl dark:text-white">to</h1>
         {splitGuess.slice(3, 6).map((letter, i) => (
           <Cell
-            key={i}
+            key={i+3}
             value={letter}
-            status={statuses[i]}
-            position={i}
+            status={statuses[i+3]}
+            position={i+3}
             isRevealing={isRevealing}
             isCompleted
           />
